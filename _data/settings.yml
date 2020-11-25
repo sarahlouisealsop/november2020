@@ -1,12 +1,12 @@
-title: Your name or name of site
+title: Sarah-Louise Alsop
 description: A website with a blog
-header_text: My Dream Blog
+footer_text: Copyright 2020 Sarah-Louise Alsop
+header_feature_image: ../uploads/img_20181024_142433_334.jpg
+header_text: Sarah-Louise Alsop
 header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-upzoom: true
+bannerheight: 20vmax
+logo: ../uploads/img_20200926_105050_977.jpg
+favicon: ../uploads/img_20200926_105050_977.jpg
+gridlayout: true
 fixednavbar: false
+upzoom: true
