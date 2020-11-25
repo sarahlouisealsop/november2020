@@ -4,7 +4,7 @@ footer_text: Copyright 2020 Sarah-Louise Alsop
 header_feature_image: ../uploads/img_20181024_142433_334.jpg
 header_text: Sarah-Louise Alsop
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 10vmax
 logo: ../uploads/img_20200926_105050_977.jpg
 favicon: ../uploads/img_20200926_105050_977.jpg
 gridlayout: true
