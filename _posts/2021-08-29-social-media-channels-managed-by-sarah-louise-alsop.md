@@ -7,26 +7,16 @@ comments: false
 ---
 **PublisHer**
 
-Twitter
+[Twitter](https://twitter.com/PublisHerEvents)
 
-https://twitter.com/PublisHerEvents
+[Facebook](https://www.facebook.com/groups/427213314788000)
 
-Facebook
-
-https://www.facebook.com/groups/427213314788000
-
-LinkedIn
-
-https://www.linkedin.com/company/79825456/admin/
+[LinkedIn](https://www.linkedin.com/company/79825456/admin/)
 
 
 
 **International Schools Network**
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/company/international-schools-network/mycompany/?viewAsMember=true)
 
-https://www.linkedin.com/company/international-schools-network/mycompany/?viewAsMember=true
-
-Twitter
-
-https://twitter.com/I_S_Network
+[Twitter](https://twitter.com/I_S_Network)
