@@ -2,31 +2,22 @@
 layout: post
 title: Social Media Channels Managed by Sarah-Louise Alsop
 date: 2021-08-29T16:28:54.228Z
+header_feature_image: ../uploads/n9lo7nab_400x400.jpg
 title_color: "#ffffff"
 comments: false
 ---
 **PublisHer**
 
-Twitter
+[Twitter](https://twitter.com/PublisHerEvents)
 
-https://twitter.com/PublisHerEvents
+[Facebook](https://www.facebook.com/groups/427213314788000)
 
-Facebook
-
-https://www.facebook.com/groups/427213314788000
-
-LinkedIn
-
-https://www.linkedin.com/company/79825456/admin/
+[LinkedIn](https://www.linkedin.com/company/79825456/admin/)
 
 
 
 **International Schools Network**
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/company/international-schools-network/mycompany/?viewAsMember=true)
 
-https://www.linkedin.com/company/international-schools-network/mycompany/?viewAsMember=true
-
-Twitter
-
-https://twitter.com/I_S_Network
+[Twitter](https://twitter.com/I_S_Network)
