@@ -12,7 +12,6 @@ And I remember walks in the park
 
 I remember talking for hours at sleepovers
 
-
 I remember starting new schools
 
 I remember trying to work out who I was 
